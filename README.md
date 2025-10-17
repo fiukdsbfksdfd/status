@@ -1,2 +1,2 @@
-yes
-semi
+UNDETECTED
+DISABLED
